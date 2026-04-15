@@ -1,5 +1,7 @@
 {
   "name": "AI Power Workshop",
   "description": "A bilingual, interactive AI training experience for university administrative staff, featuring contract risk detection, USR metrics, media strategy, and crisis monitoring.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [],
+  "C7": [],
+  "aq": []
 }
